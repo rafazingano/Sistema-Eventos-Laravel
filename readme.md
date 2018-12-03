@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-#Instalação do Sistema
+# Instalação do Sistema
 
-####No terminal siga a lista de comandos abaixo:
+#### No terminal siga a lista de comandos abaixo:
 
 - git clone https://github.com/rafazingano/sistema-eventos-laravel.git 
 - cd sistema-eventos-laravel
